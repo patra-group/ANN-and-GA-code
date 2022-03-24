@@ -16,7 +16,14 @@ Customized Python Code to evaluate Rg of copolymer sequences
   
 	
 	sudo apt install libopenmpi-dev
-  
+
+##AENET PACKAGE LINK
+
+
+git clone https://github.com/atomisticnet/aenet.git
+
+
+
 ##AENET INSTALLATION##																																
 
 
