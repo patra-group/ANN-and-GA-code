@@ -1,5 +1,6 @@
  GA Codes
-Customized Python Code to optimize sequence of a copolymer
+Customized Python Code to optimize sequence of a copolymer & 
+# Comment to execute
 python3 parameter_try.py &  
 	
 -----------------------------------------------------------
